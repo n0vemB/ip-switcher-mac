@@ -10,8 +10,8 @@ OPTIONS = {
         'CFBundleDisplayName': "网络设置切换器",
         'CFBundleGetInfoString': "网络IP设置切换工具",
         'CFBundleIdentifier': "com.networkswitcher.app",
-        'CFBundleVersion': "1.0.0",
-        'CFBundleShortVersionString': "1.0.0",
+        'CFBundleVersion': "1.1.0",
+        'CFBundleShortVersionString': "1.1.0",
         'NSHumanReadableCopyright': "Copyright © 2024, Network Switcher, All Rights Reserved",
         'LSApplicationCategoryType': 'public.app-category.utilities'
     },

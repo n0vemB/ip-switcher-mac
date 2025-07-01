@@ -5,10 +5,13 @@ import re
 import json
 import os
 
+# 版本信息
+__version__ = "1.1.0"
+
 class NetworkSwitcher:
     def __init__(self, root):
         self.root = root
-        self.root.title("网络设置切换器")
+        self.root.title(f"网络设置切换器 v{__version__}")
         self.root.geometry("500x600")
 
         # 加载配置
