@@ -1,6 +1,8 @@
 # 网络设置切换器 Mac应用
 
 一个简单易用的Mac应用，用于在手动IP设置和DHCP之间快速切换。
+![image](https://github.com/user-attachments/assets/933aae46-5b4f-43b6-915b-174ccc1b5748)
+
 
 ## 功能特点
 
